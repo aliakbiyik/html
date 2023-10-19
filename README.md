@@ -1,2 +1,2 @@
 # html
-HTML Exercises
+Web Development with HTML5
